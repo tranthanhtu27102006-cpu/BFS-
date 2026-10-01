@@ -22,4 +22,8 @@ if __name__ == "__main__":
     'D': ['B'],
     'E': ['B']
 }
+    print("Ngu Ngok Qua")
     bfs(graph,'A')
+
+
+    
